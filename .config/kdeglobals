@@ -1,0 +1,174 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=36, 39, 58
+ColorAmount=0.30000000000000004
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=
+IntensityAmount=-1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=36, 39, 58
+ColorAmount=0.5
+ColorEffect=3
+ContrastAmount=0
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=198, 160, 246
+BackgroundNormal=54, 58, 79
+DecorationFocus=198, 160, 246
+DecorationHover=73, 77, 100
+ForegroundActive=245, 169, 127
+ForegroundInactive=165, 173, 203
+ForegroundLink=198, 160, 246
+ForegroundNegative=237, 135, 150
+ForegroundNeutral=238, 212, 159
+ForegroundNormal=202, 211, 245
+ForegroundPositive=166, 218, 149
+ForegroundVisited=198, 160, 246
+
+[Colors:Complementary]
+BackgroundAlternate=24, 25, 38
+BackgroundNormal=30, 32, 48
+DecorationFocus=198, 160, 246
+DecorationHover=73, 77, 100
+ForegroundActive=245, 169, 127
+ForegroundInactive=165, 173, 203
+ForegroundLink=198, 160, 246
+ForegroundNegative=237, 135, 150
+ForegroundNeutral=238, 212, 159
+ForegroundNormal=202, 211, 245
+ForegroundPositive=166, 218, 149
+ForegroundVisited=198, 160, 246
+
+[Colors:Header]
+BackgroundAlternate=24, 25, 38
+BackgroundNormal=30, 32, 48
+DecorationFocus=198, 160, 246
+DecorationHover=73, 77, 100
+ForegroundActive=245, 169, 127
+ForegroundInactive=165, 173, 203
+ForegroundLink=198, 160, 246
+ForegroundNegative=237, 135, 150
+ForegroundNeutral=238, 212, 159
+ForegroundNormal=202, 211, 245
+ForegroundPositive=166, 218, 149
+ForegroundVisited=198, 160, 246
+
+[Colors:Selection]
+BackgroundAlternate=198, 160, 246
+BackgroundNormal=198, 160, 246
+DecorationFocus=198, 160, 246
+DecorationHover=73, 77, 100
+ForegroundActive=17, 17, 27
+ForegroundInactive=17, 17, 27
+ForegroundLink=17, 17, 27
+ForegroundNegative=17, 17, 27
+ForegroundNeutral=17, 17, 27
+ForegroundNormal=17, 17, 27
+ForegroundPositive=17, 17, 27
+ForegroundVisited=17, 17, 27
+
+[Colors:Tooltip]
+BackgroundAlternate=24, 25, 38
+BackgroundNormal=36, 39, 58
+DecorationFocus=198, 160, 246
+DecorationHover=73, 77, 100
+ForegroundActive=245, 169, 127
+ForegroundInactive=165, 173, 203
+ForegroundLink=198, 160, 246
+ForegroundNegative=237, 135, 150
+ForegroundNeutral=238, 212, 159
+ForegroundNormal=202, 211, 245
+ForegroundPositive=166, 218, 149
+ForegroundVisited=198, 160, 246
+
+[Colors:View]
+BackgroundAlternate=30, 32, 48
+BackgroundNormal=36, 39, 58
+DecorationFocus=198, 160, 246
+DecorationHover=73, 77, 100
+ForegroundActive=245, 169, 127
+ForegroundInactive=165, 173, 203
+ForegroundLink=198, 160, 246
+ForegroundNegative=237, 135, 150
+ForegroundNeutral=238, 212, 159
+ForegroundNormal=202, 211, 245
+ForegroundPositive=166, 218, 149
+ForegroundVisited=198, 160, 246
+
+[Colors:Window]
+BackgroundAlternate=24, 25, 38
+BackgroundNormal=30, 32, 48
+DecorationFocus=198, 160, 246
+DecorationHover=73, 77, 100
+ForegroundActive=245, 169, 127
+ForegroundInactive=165, 173, 203
+ForegroundLink=198, 160, 246
+ForegroundNegative=237, 135, 150
+ForegroundNeutral=238, 212, 159
+ForegroundNormal=202, 211, 245
+ForegroundPositive=166, 218, 149
+ForegroundVisited=198, 160, 246
+
+[General]
+ColorScheme=CatppuccinMacchiatoMauve
+ColorSchemeHash=ff9a547ccfc1c0f5d473b1a94c5554e7e9d635ef
+LastUsedCustomAccentColor=252,208,75
+TerminalApplication=kitty
+TerminalService=kitty.desktop
+UseSystemBell=true
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=FiraCode Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+font=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+menuFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+smallestReadableFont=Inter,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+toolBarFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+
+[Icons]
+Theme=Papirus-Dark
+
+[KDE]
+AnimationDurationFactor=0.5
+LookAndFeelPackage=makima
+contrast=4
+frameContrast=0.2
+widgetStyle=kvantum-dark
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[Shortcuts]
+Next=
+
+[WM]
+activeBackground=36,39,58
+activeBlend=202,211,245
+activeFont=Inter SemiBold,10,-1,5,600,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0
+activeForeground=202,211,245
+inactiveBackground=24,25,38
+inactiveBlend=165,173,203
+inactiveForeground=165,173,203

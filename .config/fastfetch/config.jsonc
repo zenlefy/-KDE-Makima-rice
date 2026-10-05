@@ -1,0 +1,54 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "source": "/home/burak/Pictures/ProfilePictures/makima8.png",
+    "type": "kitty",
+    "width": 38,
+    "height": 31,
+    "padding": {
+      "top": 0,
+      "left": 1,
+      "right": 2
+    },
+    "chafa": {
+      "symbols": "block+border+space",
+      "color-space": "rgb"
+    }
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    "localip",
+    "locale",
+    "break",
+    {
+      "type": "command",
+      "key": "OS Age",
+      "text": "echo $(( ($(date +%s) - $(stat -c %W /)) / 86400 )) days",
+      "keyColor": "cyan"
+    },
+    "break",
+    "colors"
+  ]
+}
