@@ -1,6 +1,6 @@
 [ColorEffects:Disabled]
 ChangeSelectionColor=
-Color=36, 39, 58
+Color=30, 30, 46
 ColorAmount=0.30000000000000004
 ColorEffect=2
 ContrastAmount=0.1
@@ -11,62 +11,62 @@ IntensityEffect=0
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=false
-Color=36, 39, 58
+Color=30, 30, 46
 ColorAmount=0.5
 ColorEffect=3
 ContrastAmount=0
 ContrastEffect=0
-Enable=true
+Enable=false
 IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=198, 160, 246
-BackgroundNormal=54, 58, 79
-DecorationFocus=198, 160, 246
-DecorationHover=73, 77, 100
-ForegroundActive=245, 169, 127
-ForegroundInactive=165, 173, 203
-ForegroundLink=198, 160, 246
-ForegroundNegative=237, 135, 150
-ForegroundNeutral=238, 212, 159
-ForegroundNormal=202, 211, 245
-ForegroundPositive=166, 218, 149
-ForegroundVisited=198, 160, 246
+BackgroundAlternate=243, 139, 168
+BackgroundNormal=49, 50, 68
+DecorationFocus=243, 139, 168
+DecorationHover=69, 71, 90
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=243, 139, 168
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
 
 [Colors:Complementary]
-BackgroundAlternate=24, 25, 38
-BackgroundNormal=30, 32, 48
-DecorationFocus=198, 160, 246
-DecorationHover=73, 77, 100
-ForegroundActive=245, 169, 127
-ForegroundInactive=165, 173, 203
-ForegroundLink=198, 160, 246
-ForegroundNegative=237, 135, 150
-ForegroundNeutral=238, 212, 159
-ForegroundNormal=202, 211, 245
-ForegroundPositive=166, 218, 149
-ForegroundVisited=198, 160, 246
+BackgroundAlternate=17, 17, 27
+BackgroundNormal=24, 24, 37
+DecorationFocus=243, 139, 168
+DecorationHover=69, 71, 90
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=243, 139, 168
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
 
 [Colors:Header]
-BackgroundAlternate=24, 25, 38
-BackgroundNormal=30, 32, 48
-DecorationFocus=198, 160, 246
-DecorationHover=73, 77, 100
-ForegroundActive=245, 169, 127
-ForegroundInactive=165, 173, 203
-ForegroundLink=198, 160, 246
-ForegroundNegative=237, 135, 150
-ForegroundNeutral=238, 212, 159
-ForegroundNormal=202, 211, 245
-ForegroundPositive=166, 218, 149
-ForegroundVisited=198, 160, 246
+BackgroundAlternate=17, 17, 27
+BackgroundNormal=30,30,46
+DecorationFocus=243, 139, 168
+DecorationHover=69, 71, 90
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=243, 139, 168
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
 
 [Colors:Selection]
-BackgroundAlternate=198, 160, 246
-BackgroundNormal=198, 160, 246
-DecorationFocus=198, 160, 246
-DecorationHover=73, 77, 100
+BackgroundAlternate=243, 139, 168
+BackgroundNormal=243, 139, 168
+DecorationFocus=243, 139, 168
+DecorationHover=69, 71, 90
 ForegroundActive=17, 17, 27
 ForegroundInactive=17, 17, 27
 ForegroundLink=17, 17, 27
@@ -77,50 +77,49 @@ ForegroundPositive=17, 17, 27
 ForegroundVisited=17, 17, 27
 
 [Colors:Tooltip]
-BackgroundAlternate=24, 25, 38
-BackgroundNormal=36, 39, 58
-DecorationFocus=198, 160, 246
-DecorationHover=73, 77, 100
-ForegroundActive=245, 169, 127
-ForegroundInactive=165, 173, 203
-ForegroundLink=198, 160, 246
-ForegroundNegative=237, 135, 150
-ForegroundNeutral=238, 212, 159
-ForegroundNormal=202, 211, 245
-ForegroundPositive=166, 218, 149
-ForegroundVisited=198, 160, 246
+BackgroundAlternate=17, 17, 27
+BackgroundNormal=30, 30, 46
+DecorationFocus=243, 139, 168
+DecorationHover=69, 71, 90
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=243, 139, 168
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
 
 [Colors:View]
-BackgroundAlternate=30, 32, 48
-BackgroundNormal=36, 39, 58
-DecorationFocus=198, 160, 246
-DecorationHover=73, 77, 100
-ForegroundActive=245, 169, 127
-ForegroundInactive=165, 173, 203
-ForegroundLink=198, 160, 246
-ForegroundNegative=237, 135, 150
-ForegroundNeutral=238, 212, 159
-ForegroundNormal=202, 211, 245
-ForegroundPositive=166, 218, 149
-ForegroundVisited=198, 160, 246
+BackgroundAlternate=24, 24, 37
+BackgroundNormal=30, 30, 46
+DecorationFocus=243, 139, 168
+DecorationHover=69, 71, 90
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=243, 139, 168
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
 
 [Colors:Window]
-BackgroundAlternate=24, 25, 38
-BackgroundNormal=30, 32, 48
-DecorationFocus=198, 160, 246
-DecorationHover=73, 77, 100
-ForegroundActive=245, 169, 127
-ForegroundInactive=165, 173, 203
-ForegroundLink=198, 160, 246
-ForegroundNegative=237, 135, 150
-ForegroundNeutral=238, 212, 159
-ForegroundNormal=202, 211, 245
-ForegroundPositive=166, 218, 149
-ForegroundVisited=198, 160, 246
+BackgroundAlternate=17, 17, 27
+BackgroundNormal=24, 24, 37
+DecorationFocus=243, 139, 168
+DecorationHover=69, 71, 90
+ForegroundActive=250, 179, 135
+ForegroundInactive=166, 173, 200
+ForegroundLink=243, 139, 168
+ForegroundNegative=243, 139, 168
+ForegroundNeutral=249, 226, 175
+ForegroundNormal=205, 214, 244
+ForegroundPositive=166, 227, 161
+ForegroundVisited=203, 166, 247
 
 [General]
-ColorScheme=CatppuccinMacchiatoMauve
-ColorSchemeHash=ff9a547ccfc1c0f5d473b1a94c5554e7e9d635ef
+ColorSchemeHash=042f52c86fafa8c2d6a3e3e024adc09a9ec04b9f
 LastUsedCustomAccentColor=252,208,75
 TerminalApplication=kitty
 TerminalService=kitty.desktop
@@ -128,7 +127,7 @@ UseSystemBell=true
 XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
-fixed=FiraCode Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+fixed=JetBrainsMono Nerd Font,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 font=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 menuFont=Inter,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
 smallestReadableFont=Inter,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
@@ -139,10 +138,10 @@ Theme=Papirus-Dark
 
 [KDE]
 AnimationDurationFactor=0.5
-LookAndFeelPackage=makima
+LookAndFeelPackage=Makima Final
 contrast=4
-frameContrast=0.2
-widgetStyle=kvantum-dark
+frameContrast=0
+widgetStyle=Klassy
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -165,10 +164,10 @@ View Style=DetailTree
 Next=
 
 [WM]
-activeBackground=36,39,58
-activeBlend=202,211,245
+activeBackground=30,30,46
+activeBlend=205,214,244
 activeFont=Inter SemiBold,10,-1,5,600,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0
-activeForeground=202,211,245
-inactiveBackground=24,25,38
-inactiveBlend=165,173,203
-inactiveForeground=165,173,203
+activeForeground=205,214,244
+inactiveBackground=17,17,27
+inactiveBlend=166,173,200
+inactiveForeground=166,173,200

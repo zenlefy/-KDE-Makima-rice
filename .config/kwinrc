@@ -39,5 +39,5 @@ Scale=1
 [org.kde.kdecoration2]
 BorderSize=None
 BorderSizeAuto=false
-library=org.kde.kwin.aurorae.v2
-theme=__aurorae__svg__CatppuccinMacchiato-Modern
+library=org.kde.klassy
+theme=Klassy
