@@ -9,3 +9,6 @@ i used [catppuccin](https://catppuccin.com/) mocha-red as theme as i can ([klass
 and there is a [animated makima cursor](https://vsthemes.org/en/cursors/cartoons/72902-makima-chainsaw-man-upd.html).
 
 for icons i chose [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
+
+
+El Psy Kongroo.
